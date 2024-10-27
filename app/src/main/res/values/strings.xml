@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deezer SongAPI</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="search">Search</string>
+    <string name="search_for_songs_or_artists">Search for songs or artists</string>
+    <string name="album_cover_description">Album cover description</string>
+</resources>
